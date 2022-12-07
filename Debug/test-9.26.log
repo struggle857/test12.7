@@ -1,0 +1,49 @@
+﻿  test_9-26.c
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2845,26): error C2440: “类型强制转换”: 无法从“const void *”转换为“float”
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2845,15): error C2100: 非法的间接寻址
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2845,38): error C2440: “类型强制转换”: 无法从“const void *”转换为“float”
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2845,28): error C2100: 非法的间接寻址
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2860,28): error C2037: “age”的左侧部分指定未定义的结构/联合“Stu”
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2860,49): error C2059: 语法错误:“)”
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2860,52): error C2223: “->age”的左侧必须指向结构/联合
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2860,55): error C2059: 语法错误:“)”
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2860,2): warning C4033: “cmp_stu_by_age”必须返回值
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2864,13): error C2079: “s”使用未定义的 struct“Stu”
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2864,64): error C2078: 初始值设定项太多
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2865,33): error C2109: 下标要求数组或指针类型
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2866,8): warning C4022: “qsort”: 指针与实参 1 不匹配
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2866,25): error C2109: 下标要求数组或指针类型
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2866,43): warning C4047: “函数”:“size_t”与“int (__cdecl *)(const void *,const void *)”的间接级别不同
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2866,29): warning C4024: “qsort”: 形参和实参 3 的类型不同
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2866,7): error C2198: “qsort”: 用于调用的参数太少
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2864,13): error C2078: 初始值设定项太多
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2864,1): warning C4047: “初始化”:“int”与“char [9]”的间接级别不同
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2888,54): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2888,54): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2888,58): error C2059: 语法错误:“)”
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2892,20): error C2065: “sz”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2895,23): error C2065: “sz”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2895,10): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2898,23): error C2065: “base”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2898,31): error C2065: “width”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2898,43): error C2065: “base”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2898,56): error C2065: “width”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2898,56): warning C4022: “cmp”: 指针与实参 2 不匹配
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2899,4): error C2143: 语法错误: 缺少“)”(在“{”的前面)
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2901,21): error C2065: “base”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2901,29): error C2065: “width”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2901,41): error C2065: “base”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2901,53): error C2065: “width”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2901,59): error C2065: “width”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2910,23): warning C4020: “bubble_sort”: 实参太多
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2910,47): error C2059: 语法错误:“)”
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2915,6): error C2236: 意外的标记“struct”。是否忘记了“;”?
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2915,17): error C2079: “s”使用未定义的 struct“Stu”
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2915,68): error C2078: 初始值设定项太多
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2916,15): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2916,14): warning C4024: “bubble_sort”: 形参和实参 1 的类型不同
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2916,19): error C2065: “sz”: 未声明的标识符
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2916,31): error C2109: 下标要求数组或指针类型
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2916,34): warning C4020: “bubble_sort”: 实参太多
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2915,17): error C2078: 初始值设定项太多
+D:\Users\31353\Documents\c语言练手\test_2-27\test-9.26\test_9-26.c(2915,1): warning C4047: “初始化”:“int”与“char [9]”的间接级别不同
